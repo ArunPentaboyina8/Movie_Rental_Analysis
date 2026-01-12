@@ -91,34 +91,32 @@ A full video walkthrough is included to explain:
 
 ---
 
-Few Snapshots Of PowerBi Report
 
-
-##Revenue Analysis
+## Revenue Analysis
 
 The Revenue Analysis section provides a detailed look at financial performance across the business. It includes trends in monthly revenue, distribution by payment methods, and revenue contribution by different customer segments and countries. These insights help identify growth opportunities and optimize pricing or payment strategies.
 
 <img width="1115" height="623" alt="Screenshot 2025-07-26 130836" src="https://github.com/user-attachments/assets/16a5ece2-2f46-4823-a919-d26b99f14a63" />
 
-##Customer Analysis
+## Customer Analysis
 
 This section focuses on customer demographics, loyalty behaviour, and spending patterns. It identifies high-value and repeat customers, shows how customer distribution varies by region, and highlights which segments drive the highest revenue. These insights support targeted marketing and retention strategies.
 
 <img width="1112" height="627" alt="Screenshot 2025-07-26 130903" src="https://github.com/user-attachments/assets/440a342b-401f-4fc7-911c-5dd6e9ecb0cb" />
 
-##Location Analysis
+## Location Analysis
 
 This section explores how rental store performance varies across different locations. By analyzing metrics such as store revenue, customer counts, and average rental behaviour by geography, we uncover regional trends in customer preferences and business success. It also highlights which cities or countries contribute most to overall business performance.
 
 <img width="1110" height="626" alt="Screenshot 2025-07-26 130950" src="https://github.com/user-attachments/assets/7edccdce-dc13-400b-b227-81ba3b1c3658" />
 
-##Film Analysis
+## Film Analysis
 
 This section highlights the performance of the film inventory. It analyze which genres are most popular, how film ratings affect inventory levels, rental frequency by category, and film language preferences. The insights help optimize stock levels and select films that match customer demand.
 
 <img width="1117" height="629" alt="Screenshot 2025-07-26 131048" src="https://github.com/user-attachments/assets/cb2b58a4-d09c-4f43-9899-0f0beb1aec02" />
 
-##Rental Analysis
+## Rental Analysis
 
 The Rental Analysis section examines how customers interact with movie rentals. It includes trends in rental duration, rental frequency, and average rental time by staff or customer. This helps identify peak rental periods, understand customer loyalty through repeat behaviour, and optimize rental strategies
 
