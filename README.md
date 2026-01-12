@@ -100,13 +100,17 @@ Few Snapshots Of PowerBi Report
 <img width="1115" height="623" alt="Screenshot 2025-07-26 130836" src="https://github.com/user-attachments/assets/16a5ece2-2f46-4823-a919-d26b99f14a63" />
 
 
+
 <img width="1112" height="627" alt="Screenshot 2025-07-26 130903" src="https://github.com/user-attachments/assets/440a342b-401f-4fc7-911c-5dd6e9ecb0cb" />
+
 
 
 <img width="1110" height="626" alt="Screenshot 2025-07-26 130950" src="https://github.com/user-attachments/assets/7edccdce-dc13-400b-b227-81ba3b1c3658" />
 
 
+
 <img width="1117" height="629" alt="Screenshot 2025-07-26 131048" src="https://github.com/user-attachments/assets/cb2b58a4-d09c-4f43-9899-0f0beb1aec02" />
+
 
 
 <img width="1112" height="629" alt="Screenshot 2025-07-26 131121" src="https://github.com/user-attachments/assets/e1f168af-e76a-44e5-af38-3ecf81ac808f" />
